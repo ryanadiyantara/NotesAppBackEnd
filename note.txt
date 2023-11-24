@@ -16,3 +16,5 @@ STEP NGODING BE:
 Buat Routes -> Bikin Fungsi di handler + export -> Gunain + Import Fungsinya di Routes ->
 _________________________________________________________________________________________________________________________
 EC2 Instance: ubuntu
+_________________________________________________________________________________________________________________________
+Token GitHub: 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
